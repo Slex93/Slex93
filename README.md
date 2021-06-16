@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Slex93
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, my name is Ilya
+#### I am Junior Android Developer
+![I am Junior Android Developer](https://github.com/Slex93/Slex93/blob/main/android-developers.svg)
 
-<!---
-Slex93/Slex93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Skills: 
+Android / Java / Kotlin / Firebase
+
+
+#### To connect me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/ilya-stepanyuk-950800214/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/st.slex/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/StSlex2)  
+- 🔭 I’m currently working on this page. 
