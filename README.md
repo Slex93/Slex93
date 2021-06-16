@@ -12,7 +12,7 @@
 ### Skills:
 <p>
   
-  <a href="https://github.com/onimur/handle-path-oz">
+  <a href="https://github.com/Slex93">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Slex93&show_icons=true&hide_border=true" />
   </a>
 
