@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Ilya
 
-### I am Junior Android Developer 
+### Android Developer 
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
