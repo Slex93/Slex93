@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Ilya
-#### I am Junior Android Developer
-![I am Junior Android Developer](https://github.com/Slex93/Slex93/blob/main/android-developers.svg)
+# Hi there 👋, my name is Ilya
 
+## I am Junior Android Developer
 
 ### Skills: 
 Android / Java / Kotlin / Firebase
