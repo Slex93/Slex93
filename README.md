@@ -2,9 +2,8 @@
 
 ### Android Developer 
 
-#### Me in google play:
-
-[![GooglePlay](https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg)](https://play.google.com/store/apps/dev?id=8790856954691512377) <- click me...
+#### Me in google play:  
+just click me... -> [![GooglePlay](https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg)](https://play.google.com/store/apps/dev?id=8790856954691512377) 
 
 #### My basic knowledge:
 
