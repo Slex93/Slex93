@@ -2,14 +2,20 @@
 
 ### Android Developer 
 
+#### Me in google play:
+
+[![GooglePlay](https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg)](https://play.google.com/store/apps/dev?id=8790856954691512377) <- click me...
+
+#### My basic knowledge:
+
 <p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code> 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code> 
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
   <br />
 </p>
 
