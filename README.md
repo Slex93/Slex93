@@ -16,6 +16,7 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code> 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
   <br />
 </p>
 
