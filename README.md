@@ -2,8 +2,8 @@
 
 <a href="https://play.google.com/store/apps/dev?id=8790856954691512377"> 
   <code>
-    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg"> 
-    Me in Goolge play
+    Me in Goolge play -->
+    <img width="4%" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg"> 
   </code>
 </a>
 
