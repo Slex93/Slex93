@@ -19,4 +19,4 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-stepanyuk-950800214)
 [![Instagram](https://img.shields.io/badge/-Instagram-FF80AB?style=flat&labelColor=FF80AB&logo=instagram&logoColor=white)](https://www.instagram.com/st.slex/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ilya977.077@gmail.com)
-[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=3C78A9&logo=Telegram&logoColor=FFFFFF)](https://t.me/StSlex2)
+[![Telegram](https://img.shields.io/static/v1?label=&message=Telegram&color=3C78A9&logo=Telegram&logoColor=FFFFFF)](https://t.me/StSlex)
