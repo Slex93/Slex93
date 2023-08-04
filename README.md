@@ -8,6 +8,8 @@
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+  <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/ktor-icon.svg"></code>
+  <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/compose-multiplatform.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code> 
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg"></code>
   <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
