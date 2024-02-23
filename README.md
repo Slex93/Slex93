@@ -5,15 +5,36 @@
 #### My basic knowledge:
 
 <p>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-  <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/ktor-icon.svg"></code>
-  <code><img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/compose-multiplatform.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code> 
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+  <a href = "https://www.java.com/">
+    <img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  </a>
+  <a href = "https://kotlinlang.org/">
+    <img width="5%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+  </a>
+  <a href = "https://www.rust-lang.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stslex/stslex/blob/main/rust-logo.svg">
+      <img width="6%" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+    </picture>
+  </a>
+  <a href = "https://developer.android.com/">
+    <img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
+  </a>
+  <a href = "https://ktor.io/">
+    <img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/ktor-icon.svg">
+  </a>
+  <a href = "https://www.jetbrains.com/lp/compose-multiplatform/">
+    <img width="5%" src="https://github.com/gilbarbara/logos/blob/main/logos/compose-multiplatform.svg">
+  </a>
+  <a href = "https://firebase.google.com/">
+    <img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  </a>
+  <a href = "https://git-scm.com/">
+    <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  </a>
+  <a href = "https://www.linux.org/">
+    <img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+  </a>
   <br />
 </p>
 
